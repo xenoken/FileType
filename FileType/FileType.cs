@@ -1,8 +1,9 @@
 ﻿/*
  * FileType.cs
  *
- * C# port of https://github.com/sindresorhus/file-type
- * by Ken T Ekeoha.
+ * C# port by Ken T Ekeoha
+ * of file-type (https://github.com/sindresorhus/file-type)
+ * 
  * see License.md for license information.
  * 
  */
