@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fr30uvnmh1vdval8?svg=true)](https://ci.appveyor.com/project/xenoken/filetype)
 # FileType 
 
 > Detect the file type of a byte buffer.
