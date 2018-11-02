@@ -1,4 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/fr30uvnmh1vdval8?svg=true)](https://ci.appveyor.com/project/xenoken/filetype)
+[![Test status](http://teststatusbadge.azurewebsites.net/api/status/xenoken/filetype)](https://ci.appveyor.com/project/xenoken/filetype)
+
 # FileType 
 
 > Detect the file type of a byte buffer.
